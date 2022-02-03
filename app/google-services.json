@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090909256691",
+    "project_id": "soc-med-a0ab8",
+    "storage_bucket": "soc-med-a0ab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090909256691:android:e1d9fba4c8fb0c8e0f3086",
+        "android_client_info": {
+          "package_name": "com.example.socmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090909256691-fmjqa9pdvpb49qrd5b1i06b69964n17q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9N7rsPz66rI3IiECVolYnNfVyOE6_2Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090909256691-fmjqa9pdvpb49qrd5b1i06b69964n17q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
